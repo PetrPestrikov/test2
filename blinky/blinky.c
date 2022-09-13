@@ -31,7 +31,7 @@
 
 //*****************************************************************************
 //
-//! \addtogroup example_list
+//! \addtogroup example_listsfsfdsfd
 //! <h1>Blinky (blinky)</h1>
 //!
 //! A very simple example that blinks the on-board LED using direct register
